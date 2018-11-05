@@ -1,4 +1,5 @@
-#Symfony
+##Symfony
+
 Clone this project and ````composer install````
 
 edit ``.env`` file to provide necessary database credentials.
